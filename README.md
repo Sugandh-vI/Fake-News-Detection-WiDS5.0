@@ -11,3 +11,6 @@ This repository contains all resources and weekly progress for the **WiDS 5.0 Me
 - Explored and cleaned the text data.
 - Removed punctuation, stopwords, and applied tokenization.
 - Prepared the dataset for further model training.
+
+**Primary Dataset:**  
+[Fake News Classification – Kaggle](https://www.kaggle.com/datasets/saurabhshahane/fake-news-classification?resource=download)
